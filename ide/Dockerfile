@@ -130,17 +130,16 @@ ARG BUILD_VERSION
 # Labels
 LABEL \
     io.hass.name="IDE" \
-    io.hass.description="Advanced IDE for Home Assistant, based on Cloud9 IDE" \
+    io.hass.description="Good-Old IDE" \
     io.hass.arch="${BUILD_ARCH}" \
     io.hass.type="addon" \
     io.hass.version=${BUILD_VERSION} \
-    maintainer="Franck Nijhof <frenck@addons.community>" \
-    org.label-schema.description="Advanced IDE for Home Assistant, based on Cloud9 IDE" \
+    maintainer="to4ko" \
+    org.label-schema.description="Good-Old IDE" \
     org.label-schema.build-date=${BUILD_DATE} \
     org.label-schema.name="IDE" \
     org.label-schema.schema-version="1.0" \
-    org.label-schema.url="https://community.home-assistant.io/t/community-hass-io-add-on-ide-based-on-cloud9/33810?u=frenck" \
-    org.label-schema.usage="https://github.com/hassio-addons/addon-ide/tree/master/README.md" \
+    org.label-schema.usage="https://github.com/to4ko/addon-ide/tree/master/README.md" \
     org.label-schema.vcs-ref=${BUILD_REF} \
-    org.label-schema.vcs-url="https://github.com/hassio-addons/addon-ide" \
-    org.label-schema.vendor="Home Assistant Community Add-ons"
+    org.label-schema.vcs-url="https://github.com/to4ko/addon-ide" \
+    org.label-schema.vendor="Home Assistant Add-ons"
