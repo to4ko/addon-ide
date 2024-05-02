@@ -1,5 +1,5 @@
 {
   "build_from": {
-    "amd64": "hassioaddons/ide-amd64:2.2.0
+    "amd64": "hassioaddons/ide-amd64:2.2.0"
   }
 }
