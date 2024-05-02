@@ -2,7 +2,7 @@
   "name": "Good-Old IDE",
   "version": "0.0.5",
   "slug": "ide",
-  "description": "Good-Old IDE",
+  "description": "Good-Old IDE for home Assistant",
   "url": "https://github.com/to4ko/addon-ide",
   "webui": "[PROTO:ssl]://[HOST]:[PORT:8321]",
   "startup": "services",
