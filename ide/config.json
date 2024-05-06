@@ -13,8 +13,6 @@
   "auth_api": true,
   "homeassistant_api": true,
   "auto_uart": true,
-  "ingress": true,
-  "ingress_port": 8321,
   "ports": {
     "8321/tcp": 8321
   },
